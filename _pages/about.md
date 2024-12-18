@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 I'm currently a Ph.D. student in College of Information and Science Technology at Pennsylvania State University. My advisor is Professor [**Vasant Honavar**](http://faculty.ist.psu.edu/vhonavar/).
 
 # Interest
