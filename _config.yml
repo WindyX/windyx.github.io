@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Naixin (Windy) Zhang"
 title_separator          : "-"
-name                     : &name "Windy"
+name                     : &name "Naixin (Windy) Zhang"
 description              : &description "personal description"
 url                      : https://windyx.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Naixin (Windy) Zhang"
   pronouns         : # "she/her"  
-  bio              : "Ph.D. student in College of IST at PennState"
+  bio              : "A Ph.D. student in College of IST at PennState"
   location         : "State College, PA"
   employer         : "Pennsylvania State University"
   uri              : # URL
