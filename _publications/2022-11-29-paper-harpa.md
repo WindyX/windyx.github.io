@@ -2,7 +2,7 @@
 title: "HARPA: Hierarchical Attention with Relation Paths for Knowledge Graph Embedding Adversarial Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-11-29-paper-harpa
+permalink: /publications/2022-11-29-paper-harpa
 excerpt: ''
 date: 2022-11-29
 venue: 'Data Mining and Knowledge Discovery (DMKD, Journal)'

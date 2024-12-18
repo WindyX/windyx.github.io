@@ -1,8 +1,8 @@
 ---
-title: "KGRN: Knowledge Graph Relational Path Network for Target Prediction of TCM Prescriptions"
+title: "**KGRN**: Knowledge Graph Relational Path Network for Target Prediction of TCM Prescriptions"
 collection: publications
 category: conferences
-permalink: /publication/2021-08-12-paper-kgrn
+permalink: /publications/2021-08-12-paper-kgrn
 excerpt: ''
 date: 2021-08-12
 venue: 'Intelligent Computing Theories and Application: 17th International Conference, ICIC 2021'
