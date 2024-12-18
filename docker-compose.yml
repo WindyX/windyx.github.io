@@ -1,0 +1,12 @@
+name: academicpages
+
+services:
+  academicpages:
+    container_name: academicpages
+    image: windyx/academicpages
+    network_mode: bridge
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 1313:4000
+    restart: unless-stopped
